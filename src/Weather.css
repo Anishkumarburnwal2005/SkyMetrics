@@ -1,0 +1,18 @@
+.weatherInfo{
+    border: rgb(11, 11, 119) solid 4px;
+    width: 40rem !important;
+}
+
+.info{
+    font-size: 25px;
+}
+
+.weather_img{
+    width: 40rem;
+    height: 27rem;
+}
+
+#outlined-basic{
+    width: 25rem;
+    height: 3rem;
+}
